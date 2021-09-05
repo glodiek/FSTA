@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630681993 source:c:\users\costes\documents\c proj\kabs\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+
